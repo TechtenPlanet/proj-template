@@ -1,12 +1,12 @@
 [submodule "app/react/web"]
 	path = app/react/web
-	url = https://github.com/SuayeLab/react-template
+	url = https://github.com/react-ghana/react-template
 [submodule "app/rn/mobile"]
 	path = app/rn/mobile
-	url = https://github.com/SuayeLab/rn-template
+	url = https://github.com/react-ghana/rn-template
 [submodule "app/rn/lib/lib-react-native"]
 	path = app/rn/lib/lib-react-native
-	url = https://github.com/SuayeLab/lib-react-native
+	url = https://github.com/react-ghana/lib-react-native
 [submodule "server/parse-b4a"]
 	path = server/parse-b4a
-	url = https://github.com/SuayeLab/parse-b4a-template
+	url = https://github.com/react-ghana/parse-b4a-template

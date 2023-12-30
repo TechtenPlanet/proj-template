@@ -1,11 +1,9 @@
 # template
 
 ## Steps to initialize repos
-* `git checkout develop`
-checkouts out the development branch
 * `git submodule update --init`
 pulls down the content from each repo
-* `git submodule foreach git checkout master`
+* `git submodule foreach git checkout main`
 recursively checks out all the repos to the develop branch
 * All the projects should be initialized to their develop branch
 
